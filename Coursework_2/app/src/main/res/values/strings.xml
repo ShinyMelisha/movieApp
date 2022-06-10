@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MOVIE APP</string>
+    <string name="add_movies_to_db">add movies to db</string>
+    <string name="search_for_movies">search for movies</string>
+    <string name="search_for_actors">search for actors</string>
+    <string name="string_search_for_actors" />
+    <string name="string_string_search_for_actors" />
+</resources>
