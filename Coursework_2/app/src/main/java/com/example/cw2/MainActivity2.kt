@@ -18,7 +18,7 @@ import java.io.InputStreamReader
 import java.net.HttpURLConnection
 import java.net.URL
 
-class SearchMovie : AppCompatActivity() {
+class MainActivity2 : AppCompatActivity() {
     private lateinit var title: String
     private lateinit var year: String
     private lateinit var rated: String

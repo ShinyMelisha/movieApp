@@ -16,7 +16,7 @@ import java.net.HttpURLConnection
 import java.net.URL
 
 
-class TypeString : AppCompatActivity() {
+class MainActivity4 : AppCompatActivity() {
 
     private lateinit var substringTv: TextView
     private lateinit var title: String

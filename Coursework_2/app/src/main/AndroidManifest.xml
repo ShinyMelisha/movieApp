@@ -15,13 +15,13 @@
             android:name=".MainActivity5"
             android:exported="false" />
         <activity
-            android:name=".TypeString"
+            android:name=".MainActivity4"
             android:exported="false" />
         <activity
-            android:name=".SearchActor"
+            android:name=".MainActivity3"
             android:exported="false" />
         <activity
-            android:name=".SearchMovie"
+            android:name=".MainActivity2"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

@@ -19,17 +19,17 @@ class MainActivity : AppCompatActivity() {
         val stringSearchingBtn=findViewById<Button>(R.id.typeStringBtn)
         //search with string movie
         stringSearchingBtn.setOnClickListener {
-            val substringMovie = Intent(this, TypeString::class.java)
+            val substringMovie = Intent(this, MainActivity4::class.java)
             startActivity(substringMovie)
         }
         //search movie
         movieSearchBtn.setOnClickListener {
-            val searchMovie = Intent(this, SearchMovie::class.java)
+            val searchMovie = Intent(this, MainActivity2::class.java)
             startActivity(searchMovie)
         }
         //search actor
         searchActorBtn.setOnClickListener {
-            val searchActor = Intent(this, SearchActor::class.java)
+            val searchActor = Intent(this, MainActivity3::class.java)
             startActivity(searchActor)
         }
 //add movie to the database

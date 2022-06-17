@@ -9,7 +9,7 @@ import androidx.room.Room
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 
-class SearchActor : AppCompatActivity() {
+class MainActivity3 : AppCompatActivity() {
     private lateinit var actorNameTv:TextView
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
